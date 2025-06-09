@@ -19,8 +19,7 @@ If you want to help me out, consider becoming a sponsor.
   I've been also using Kotlin for around three years for mostly the same reasons.
   
 ## Socials
-[![Telegram]
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)]
 
-[![Reddit]
-
+[![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)]
  
