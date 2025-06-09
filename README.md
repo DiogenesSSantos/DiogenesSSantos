@@ -1,25 +1,23 @@
-###  DiogenesSSantos
+### DiogenesSSantos
 
-## Who am I?
+## Quem sou eu?
 
-Hello, my name is Alessandro. I'm a twenty-year-old developer based in Italy.
-My work is focused around:
-- Reverse Engineering
-- Compilers
-- Building software for open-source projects I like
+Olá, meu nome é Diogenes. Sou um desenvolvedor back-end, mas às vezes também me aventuro com front-end.  
+Concentro-me mais em:
+- Desenvolvimento de software utilizando stacks que domino.
+- Automação com N8N.
 
-Please take a look at my pinned projects to learn more and follow me to see my next projects take shape.
-If you want to help me out, consider becoming a sponsor.
+Dê uma olhada nos meus projetos fixados para saber mais e me siga para ver como meus próximos projetos ganham forma.  
+Se você quiser me ajudar em alguns desses projetos, entre em contato pelo meu e-mail.
 
-## Stack
+## Principais Stacks
 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
   
-  I've used Java for almost six years, and many of my projects are written in Java, ranging from reverse engineering to compilers.
-  I've been also using Kotlin for around three years for mostly the same reasons.
-  
-## Socials
+Tenho utilizado Java desde o início dos meus estudos, que começaram em meados de 2023, e todos os meus projetos foram escritos nessa linguagem.  
+Também optei por utilizar Kotlin neste ano de 2025, basicamente pelas mesmas razões e para adquirir conhecimento em desenvolvimento mobile.
+
+## Redes Sociais
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)]
 
 [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)]
- 
