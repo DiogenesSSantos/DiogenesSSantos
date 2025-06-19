@@ -1,17 +1,15 @@
 ### DiogenesSSantos
 
 ## Quem sou eu?
-Olá, meu nome é Diogenes. Sou um desenvolvedor back-end, mas às vezes também me aventuro com front-end usando HTML,CSS,JAVA-SCRIPT e os frameworks de dóminio.  
-Tenho utilizado Java desde o início dos meus estudos, que começaram em meados de 2023, e todos os meus projetos foram escritos nessa linguagem.  
-Também optei por utilizar Kotlin e C# neste ano de 2025, basicamente pelas mesmas razões e para adquirir conhecimento em desenvolvimento mobile.
-Concentro-me mais em:
-- Desenvolvimento de software utilizando stacks que domino.
-- Automação com N8N.
-
-Dê uma olhada nos meus projetos fixados para saber mais e me siga para ver como meus próximos projetos ganham forma.  
-Se você quiser me ajudar em alguns desses projetos, entre em contato pelo meu e-mail.
+Olá, meu nome é Diogenes. Sou um desenvolvedor back-end apaixonado por criar soluções robustas e eficientes, mas também me aventuro pelo front-end utilizando HTML, CSS, JavaScript e frameworks modernos. Desde que iniciei meus estudos em meados de 2023, concentrei-me no desenvolvimento em Java – linguagem na qual já foram implementados todos os meus projetos. Em 2025, ampliei meus horizontes e passei a trabalhar com Kotlin e C#, sobretudo para aprofundar meus 
+conhecimentos no desenvolvimento mobile.
 
 
+## Área de atuação 
+- Desenvolvimento de Software: Criação de aplicações sólidas e escaláveis com stacks que domino.
+- Automação: Utilização de ferramentas como o n8n para otimizar processos e fluxos de trabalho.
+
+Convido você a explorar meus projetos fixados para conhecer melhor o meu trabalho e acompanhar a evolução dos próximos projetos. Se desejar colaborar ou contribuir, sinta-se à vontade para entrar em contato pelo meu e-mail.
 
 ## Principais Stacks
 
@@ -26,6 +24,10 @@ Se você quiser me ajudar em alguns desses projetos, entre em contato pelo meu e
 
 
 ## Redes Sociais
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)]
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558184768748)
 
-[![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seunome)
+
+[![Indeed](https://img.shields.io/badge/Indeed-2164F3?style=for-the-badge&logo=indeed&logoColor=white)](https://www.indeed.com/c/your-company)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogenescontatoofficial@hotmail.com)
