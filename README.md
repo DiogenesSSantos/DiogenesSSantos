@@ -1,7 +1,7 @@
 ### DiogenesSSantos
 
 ## Quem sou eu?
-Olá, meu nome é Diogenes. Sou um desenvolvedor back-end apaixonado por criar soluções robustas e eficientes, mas também me aventuro pelo front-end utilizando HTML, CSS, JavaScript e frameworks modernos. Desde que iniciei meus estudos em meados de 2023, concentrei-me no desenvolvimento em Java – linguagem na qual já foram implementados todos os meus projetos. Em 2025, ampliei meus horizontes e passei a trabalhar com Kotlin e C#, sobretudo para aprofundar meus 
+Olá, meu nome é Diogenes. Sou um desenvolvedor back-end apaixonado por criar soluções robustas e eficientes, mas também me aventuro pelo front-end utilizando HTML, CSS, JavaScript e frameworks modernos. Desde que iniciei meus estudos em meados de 2023, concentrei-me no desenvolvimento em Java – linguagem na qual já foram implementados todos os meus projetos. Em 2024, ampliei meus horizontes e passei a trabalhar com Kotlin e C#, sobretudo para aprofundar meus 
 conhecimentos no desenvolvimento mobile.
 
 
